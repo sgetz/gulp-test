@@ -1,0 +1,1 @@
+require('./bower_components/lodash/dist/lodash')

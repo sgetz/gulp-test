@@ -1,0 +1,19 @@
+{
+  "name": "gulp-test",
+  "version": "0.0.0",
+  "authors": [
+    "Samuel Sheftel <ssheftel@aamc.org>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "~2.4.1"
+  }
+}
